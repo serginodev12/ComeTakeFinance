@@ -1,0 +1,2 @@
+# ComeTakeFinance
+Le projet COMeTAKe.finance consiste à apporter un financement aux personnes ayant une activité  fonctionnelle, afin de leur permettre de développer celle-ci. Les intéressés souscrivent en fournissant des  informations qui sont stockées sur support physique (registre, format…). Les vérifications des états de  comptes se font de ce fait par consultation de documents du côté de l’entreprise, et par consultation  téléphonique (appel des opérateurs COMeTAKe.finance) du côté du client. 
